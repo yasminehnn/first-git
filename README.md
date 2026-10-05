@@ -1,18 +1,15 @@
-# CSC649 My First Python Experiment
+CSC649 My First Python Experiment
 
-## Description
+Description : This program accepts a sentence from the user and calculates the number of words and characters in the sentence. It also displays a suitable message when the user enters an empty input.
 
-This program accepts a sentence from the user and calculates the number of words and characters in the sentence. It also displays a suitable message when the user enters an empty input.
-
-## How to Run
-
+How to Run: 
 1. Open the project in PyCharm.
 2. Make sure the project is using Python 3.12.
 3. Open `main.py`.
 4. Run the program.
 5. Enter a sentence when prompted.
 
-## Test Results
+Test Results
 
 | Test            | Input                    | Expected Result                                            |
 | --------------- | ------------------------ | ---------------------------------------------------------- |
@@ -22,6 +19,5 @@ This program accepts a sentence from the user and calculates the number of words
 
 The program produced the expected results for all three test cases.
 
-## Limitation
-
-The program only performs word and character counting. It does not analyse punctuation, sentences, or the meaning of the text.
+Limitation : The program only performs word and character counting. It does not analyse punctuation, sentences, or the meaning of the text.
+"# first-git" 
